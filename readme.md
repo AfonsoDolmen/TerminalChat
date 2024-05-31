@@ -5,8 +5,6 @@
 <p>TerminalChat é um simples projeto escrito em Python que permite a troca de mensagens
 via servidor TCP com conexões simultâneas diretamente de um terminal.</p>
 
-<img alt="TerminalChat" src="C:\Users\Afonso\Pictures\terminalchat.png"/>
-
 <h2>Bibliotecas Utilizadas</h2>
 * <strong>Socket:</strong> Permite a programação em baixo nível de redes, criando assim um pacote de conexão
 para comunicação cliente/servidor.
